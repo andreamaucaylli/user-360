@@ -1,0 +1,30 @@
+.blue{
+    color: #68ADFF;
+}
+
+.white{
+   color: white;
+}
+
+.bg-blue{
+    background-color: #68ADFF;
+}
+
+.bg-cover {
+    background-image: url(../image/large.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-text{
+    padding: 5rem;
+}
+
+.free-trial{
+    padding: inherit;
+}
+.icon-services{
+    
+}
+
+
